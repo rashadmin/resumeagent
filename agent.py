@@ -22,7 +22,7 @@ from google.genai import types
 from google.genai import types as genai_types
 from pydantic import BaseModel
 from google.adk.agents import Agent,SequentialAgent,LlmAgent,ParallelAgent
-from google.adk.models.lite_llm import LiteLlm
+
 load_dotenv()
 
 
