@@ -1167,6 +1167,9 @@ def confirm_docx_built(script_path: str) -> dict:
         return {"success": False, "output_path": output_path, "size_bytes": 0, "error": str(e)}
  
  
+
+
+
 agent_3_resume_writer = Agent(
     name="agent_3_resume_writer",
     model="gemini-3.1-flash-lite-preview",
@@ -1554,6 +1557,10 @@ async def build_resume(job_description: str):
             "X-Accel-Buffering": "no",
         },
     )
+
+
+
+
 
 @app.get("/download/{filename}")
 async def download_resume(filename: str):
