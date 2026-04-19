@@ -1,0 +1,18 @@
+{
+  "name":       "Ameen Abdulrasheed",
+  "title":      "Data Scientist, Agentic AI Engineer",
+  "email":      "pysama.tech@gmail.com",
+  "phone":      "+234XXXXXXXXXX",
+  "linkedin":   "linkedin.com/in/your-profile",
+  "github":     "github.com/rashadmin",
+  "portfolio":  "pysama-portfolio.vercel.app",
+  "location":   "Nigeria",
+  "base_summary": "Result-oriented AI Engineer and Data Scientist with expertise in Machine Learning, NLP, Generative AI, and Prompt Engineering. Skilled in Large Language Models (LLMs), agent-based AI systems, and autonomous workflow automation using frameworks such as LangChain and LangGraph. Experienced in data analysis, predictive modelling, and visualization with Python, SQL, and modern BI tools with proven ability to design effective prompts, optimize LLM performance, and integrate APIs for scalable, real-world applications. Strong background in cloud deployment, data pipelines, and intelligent automation, combining analytical rigor with innovative problem-solving to build trustworthy, high-performance AI solutions.",
+  "education": [
+    {
+      "degree":      "BEng. Electrical and Electronics Engineering",
+      "institution": "University of Ilorin, Ilorin",
+      "year":        "2025"
+    }
+  ]
+}
